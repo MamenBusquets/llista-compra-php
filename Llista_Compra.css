@@ -1,0 +1,20 @@
+body{
+    background-color: #c8f8ef;
+}
+h2{
+    font-family: sans-serif;
+    text-decoration: underline dotted #fd73c4;
+}
+
+li{
+    list-style-image: url(carrito1.png);
+    font-family: sans-serif;
+    margin-left: 20px;
+    list-style-position: inside;
+}
+
+p{
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: underline dotted #fd73c4;
+}
